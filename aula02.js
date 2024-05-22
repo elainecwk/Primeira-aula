@@ -5,7 +5,7 @@ var idade = 42
 var  eProfessor = true;
 var datadenascimento
 git push
-script src="aula02.js">
+script src="aula05.js">
 
 documento.write(typeof nome, ',br/>');
 document.write(typeof datadenascimento, '<br/>');
